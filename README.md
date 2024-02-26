@@ -6,6 +6,10 @@ Cines y Redes Sociales
 
 Visualizaciones realizadas en Python para mostrar superioridad entre distintas marcas de cines (AMC, Cinemark, Cinepolis/Cine Hoyts) y distintas redes sociales (Facebook, Instagram, TikTok) bajo distintas estadísticas
 
+# Creadores
+- Marcelo Gangas
+- Josué Venegas
+
 # Herramientas necesarias
 
 Se ha comprobado el correcto funcionamiento del proyecto con las siguientes versiones:
